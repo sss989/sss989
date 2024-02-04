@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/Tistory-F7412A?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 
-  ![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sss989&show_icons=true&theme=dracula&bg_color=light&text_color=dark&icon_color=FF007F&title_color=FF007F)
+  [![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sss989&show_icons=true&theme=dracula&bg_color=light&text_color=dark&icon_color=FF007F&title_color=FF007F&count_private=true)](https://github.com/sss989/github-readme-stats)
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sss989&theme=default)](https://sss989.tistory.com/)
 
 </div><br>
