@@ -9,17 +9,20 @@
 <br>
 
 ## 👩🏻‍💻 DEV's log
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; ">
     <a>
         <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
     <a href="https://sss989.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-F7412A?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-  
+
   ![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sss989&show_icons=true&theme=dracula&bg_color=light&text_color=dark&icon_color=FF007F&title_color=FF007F)
- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sss989&theme=default)](https://sss989.tistory.com/)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sss989&theme=default)](https://sss989.tistory.com/)
+
 </div><br>
+
+
 
 ## 📞 Contact 
 <div style="display:flex; flex-direction:row;">
@@ -50,7 +53,6 @@
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
-
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
