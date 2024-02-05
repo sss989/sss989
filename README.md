@@ -1,6 +1,6 @@
+<div align="center">
+    
 ![header](https://capsule-render.vercel.app/api?type=venom&color=FF99CC&height=300&section=header&text=Hi!%20Soyeon's%20github%20👋&fontSize=70)
-
-<div align="left">
 
 ## 💁🏻‍♀️ Number of visitors
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsss989&count_bg=%23FFD7DF&title_bg=%23AEAEAE&icon=&icon_color=%23F0F0ED&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -22,7 +22,7 @@
 
 </div><br>
 
-## Solved.ac
+## 🏆 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sss989)](https://solved.ac/sss989/)
 
 
