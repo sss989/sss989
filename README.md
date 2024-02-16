@@ -1,6 +1,6 @@
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=venom&color=FF99CC&height=300&section=header&text=Hi!%20Soyeon's%20github%20👋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=FF99CC&height=150&section=header&text=Hi!%20Soyeon's%20github%20👋&fontSize=50)
 
 ## 💁🏻‍♀️ Number of visitors
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsss989&count_bg=%23FFD7DF&title_bg=%23AEAEAE&icon=&icon_color=%23F0F0ED&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
